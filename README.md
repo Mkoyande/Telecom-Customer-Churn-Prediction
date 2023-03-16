@@ -4,7 +4,7 @@
 Introduction:
 
 
-Customer churn is one of the biggest fears of any industry. From various studies in the past, we know that the cost of acquiring a new customer has been far greater than retaining one. Churn or churn rate is defined as the percentage of customers who stop subscribing to a service or percentage of employees leave a job. Churn has affected industries such as banking, insurance, internet streaming and telecommunications to just name a few. Although there are many reasons for customer churn, some of the major reasons are service dissatisfaction, costly subscription, and better alternatives. Hence, in this paper the problem of churning is addressed and data factors affecting the churn are analyzed for their effect on the rate. ![image](https://user-images.githubusercontent.com/125908736/225767756-15c11c58-60bf-494a-bec8-b52e60484f60.png)
+Customer churn is one of the biggest fears of any industry. From various studies in the past, we know that the cost of acquiring a new customer has been far greater than retaining one. Churn or churn rate is defined as the percentage of customers who stop subscribing to a service or percentage of employees leave a job. Churn has affected industries such as banking, insurance, internet streaming and telecommunications to just name a few. Although there are many reasons for customer churn, some of the major reasons are service dissatisfaction, costly subscription, and better alternatives. Hence, in this paper the problem of churning is addressed and data factors affecting the churn are analyzed for their effect on the rate.
 
 
 Classification labels
@@ -32,4 +32,4 @@ Customers demographic info
 •	SeniorCitizen — Whether the customer is a senior citizen or not (1, 0)
 •	Partner — Whether the customer has a partner or not (Yes, No)
 •	Dependents — Whether the customer has dependents or not (Yes, No)
-![image](https://user-images.githubusercontent.com/125908736/225767917-58821ad5-5cb2-416b-a9bd-25077625f09f.png)
+
